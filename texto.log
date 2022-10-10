@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.31)  7 OCT 2022 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.31)  9 OCT 2022 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -209,22 +209,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2]
-Overfull \hbox (32.55777pt too wide) in paragraph at lines 113--115
+Overfull \hbox (32.55777pt too wide) in paragraph at lines 112--114
 []$[] [][] [] \OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 u[]du \OT1/cmr/m/n/10 = [] + \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 u[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C[] [][] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (47.18694pt too wide) in paragraph at lines 123--125
+Overfull \hbox (47.18694pt too wide) in paragraph at lines 122--124
 []$[] []\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@ [] []\OML/cmm/m/it/10 du \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@ [] []\OML/cmm/m/it/10 du \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@ []$ 
  []
 
 
-Overfull \hbox (5.55795pt too wide) in paragraph at lines 126--128
+Overfull \hbox (5.55795pt too wide) in paragraph at lines 125--127
 []$[] []\OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@ [] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 C \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@ [] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (96.9566pt too wide) in paragraph at lines 139--141
+Overfull \hbox (96.9566pt too wide) in paragraph at lines 138--140
 []$[] [] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 u[] [][] \OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2) [][] \OML/cmm/m/it/10 du \OT1/cmr/m/n/10 = (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2) [] \OML/cmm/m/it/10 u[] [][] du$ 
  []
 
@@ -233,18 +233,18 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 4704 strings out of 478287
- 72924 string characters out of 5849289
+ 4706 strings out of 478287
+ 72946 string characters out of 5849289
  385228 words of memory out of 5000000
- 22852 multiletter control sequences out of 15000+600000
- 472540 words of font info for 38 fonts, out of 8000000 for 9000
+ 22853 multiletter control sequences out of 15000+600000
+ 473316 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,67p,254b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on texto.pdf (6 pages, 107214 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on texto.pdf (6 pages, 123112 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
